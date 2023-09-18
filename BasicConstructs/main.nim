@@ -6,7 +6,7 @@ let word = "imuttable"
 var x = "forty-three" 
 var y = 43
 
-echo("y before transitionL ", y )
+echo("y before transition: ", y )
 
 if y > c:
     var y = c 
