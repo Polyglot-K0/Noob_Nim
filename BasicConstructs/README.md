@@ -1,6 +1,6 @@
 # Noob_Nim
 
-```Nim 
+``` Nim
 
 const c = 5
 
@@ -13,6 +13,7 @@ var y = 43
 
 echo("y before transitionL ", y )
 
+# Change the value of y
 if y > c:
     var y = c 
     echo("y post transition: ", y )
